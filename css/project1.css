@@ -1,0 +1,51 @@
+h1 {
+    color:rgb(5, 70, 48);
+}
+
+h2 {
+    color:rgb(59, 26, 4);
+}
+
+#price {
+    color:rgb(150, 65, 9);
+}
+
+#worb {
+    color:rgb(165, 37, 127);
+}
+
+body {
+    background-color: rgb(199, 193, 164);
+    display: flex;
+    flex-direction: column;
+}
+
+p {
+    color: rgb(34, 28, 129);
+}
+
+nav {
+    height: 15%;
+    max-height: 200px;
+    background-color: rgb(6, 73, 32);
+}
+
+button {
+    padding: 1rem;
+    background-color: #999;
+    border: none;
+    border-radius: 0.3rem;
+}
+
+button:hover{
+    background-color: white;
+    color: black;
+}
+
+.btn-primary{
+    background-color: #002984;
+    color: white;
+}
+
+
+

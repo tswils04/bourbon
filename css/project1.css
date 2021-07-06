@@ -47,5 +47,20 @@ button:hover{
     color: white;
 }
 
+#nav-menu {
+    color: whitesmoke;
+}
 
+footer {
+    background-color: rgb(6, 73, 32);
+}
 
+footer p {
+    color: whitesmoke;
+}
+
+@media screen and (min-width: 800px) {
+    main {
+        flex-direction: row;
+    }
+}
